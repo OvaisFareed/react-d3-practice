@@ -1,0 +1,6 @@
+.pie:hover {
+    stroke:  white;
+    stroke-width: 4px;
+    transform: scale(1.1, 1.1);
+    transition: transform 0.5s;
+}
